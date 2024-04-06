@@ -4,7 +4,7 @@ This is a simple Python program for securely encrypting files using symmetric an
 ## Features
 
 - **Asymmetric Encryption**: Uses RSA for securely exchanging symmetric keys.
-- **Symmetric Encryption**: Employs AES for encrypting file content with the exchanged symmetric key.
+- **Symmetric Encryption**: Applies AES for secure file encryption with a symmetric key.
 - **Progress Bar**: Provides a visual progress indicator for the encryption process.
 - **Integrity Check**: Utilizes HMAC to ensure the integrity of encrypted data.
 
