@@ -35,12 +35,12 @@ This program is particularly useful in scenarios where secure file sharing is im
 
 ## Screenshots
 
-- Key pair Generation
+- Key Pair Generation
 <div align="center">
   <img src="screenshots/1.png" alt="Generating key pair" width="90%">
 </div>
 
-- File encryption
+- File Encryption
 <div align="center">
   <img src="screenshots/2.jpg" alt="Encrypting & Decrypting" width="90%">
 </div>
