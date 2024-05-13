@@ -48,3 +48,8 @@ This program is particularly useful in scenarios where secure file sharing is im
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or feedback, feel free to contact me at [adham-95@windowslive.com](mailto:adham-95@windowslive.com).
+
