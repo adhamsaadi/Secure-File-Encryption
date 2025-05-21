@@ -17,7 +17,7 @@ This program is particularly useful in scenarios where secure file sharing is im
 ### Prerequisites
 
 - Python 3.x
-- pycryptodome library. You can install it via pip: `pip install pycryptodome`
+- pycryptodome library. You can install it via pip: `pip install pycryptodome` or `apt install python3-pycryptodome`
 
 ### Usage
 
